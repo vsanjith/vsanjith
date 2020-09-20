@@ -3,7 +3,7 @@
 
 **vsanjith/vsanjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Gmail Badge](https://img.shields.io/badge/-sanjithmahe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harishsg99@gmail.com)](mailto:harishsg99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sanjithmahe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjithmahe123@gmail.com)](mailto:sanjithmahe123@gmail.com)
 
 Here are some ideas to get you started:
 
