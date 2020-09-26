@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-**vsanjith/vsanjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**vsanjith/vsanjith**
 [![Gmail Badge](https://img.shields.io/badge/-sanjithmahe123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjithmahe123@gmail.com)](mailto:sanjithmahe123@gmail.com)
 
 - I'm pursuing my third year of BTECH degree in CSE at Amrita Vishwa Vidyapeetham.
